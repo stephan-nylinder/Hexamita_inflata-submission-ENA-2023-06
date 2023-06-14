@@ -5,15 +5,15 @@ This is a description of the submission process of a de novo assembly genome to 
 
 Data belongs to Redmine #6700 (initiated 2023-03-14).
 
-# DNA seq
+## DNA seq
 - Illumina MiSeq
 - PacBio RSII
 - Oxford Nanopore
 
-# RNA seq
+## RNA seq
 - Illumina MiSeq
 
-# Assembly
+## Assembly
 - .gff
 - Assembly .fastq
 
